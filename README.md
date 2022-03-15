@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandeep-kumar-02
+- 👋 Hi, I’m @sandeep-kumar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning NextJs
 - 💞️ I’m looking to collaborate on ReactJs
